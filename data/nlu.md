@@ -53,3 +53,27 @@
 ## intent: faq/headstorm
 - who is headstorm?
 - what is headstorm?
+
+## intent: ask_covid
+- How many new cases are there today?
+- How many new cases are there this week?
+- How many cases are there globally?
+- how many cases are there in the us?
+- how many people have died from covid 19 in france?
+- summary info
+- what are the numbers for greece?
+
+## intent: inform
+- [The United States of America](location)
+- [USA](location)
+- the [us](location)
+- The [USA](location)
+- how many people have [died](case_type) in the [UK](location)
+- I'm trying to find out how many [new](stat_type) cases there are in [Iran](location)
+- Can you tell me the numbers for [Dallas County](location)
+
+## intent: out_of_scope
+- Do you like pizza?
+- I want to talk to your sales team
+- operator
+- help

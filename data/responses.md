@@ -12,4 +12,4 @@
 
 ## headstorm
 * faq/headstorm
- - Headstorm is a software consultancy dedicated to improving the world by empowering it's clients with modern technology. To learn more, check out their [website](https://headstorm.com).
+ - Headstorm is a software consultancy dedicated to improving the world by empowering its clients with modern technology. To learn more, check out their [website](https://headstorm.com).
