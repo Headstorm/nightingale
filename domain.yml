@@ -8,7 +8,9 @@ intents:
   - out_of_scope
 
 entities:
-  - location
+  - country
+  - state
+  - city
   - case_type
   - stat_type
 
@@ -25,8 +27,18 @@ responses:
     - text: Sorry, I wasn't able to understand you, can you rephrase that?
 
 slots:
-  location:
-    type: unfeaturized
+  country:
+    type: text
+  state:
+    type: text
+  city:
+    type: text
+  case_type:
+    type: text
+  stat_type:
+    type: text
+    
+  
 
 actions:
   - respond_faq
