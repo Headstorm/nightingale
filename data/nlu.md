@@ -338,7 +338,12 @@ data/lookup_tables/countries.txt
 
 ## synonym: All
 - Earth
-- The World
+- World
+- Globe
+- universe
+- everywhere
+- no country
+- nowhere
 
 ## synonym: Aruba
 - AW
