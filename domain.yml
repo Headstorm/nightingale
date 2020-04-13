@@ -37,8 +37,6 @@ slots:
     type: unfeaturized
   stat_type:
     type: unfeaturized
-    
-  
 
 actions:
   - respond_faq
