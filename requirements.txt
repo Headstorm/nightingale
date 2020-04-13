@@ -71,6 +71,7 @@ psycopg2-binary==2.8.5
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.5.0
+pycountry==19.8.18
 pycparser==2.20
 pydot==1.4.1
 pyflakes==2.1.1

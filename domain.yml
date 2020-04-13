@@ -1,14 +1,16 @@
 intents:
   - greet: {triggers: action_greet}
-  - bye
-  - thank
+  - bye: {triggers: action_bye}
+  - thank: {triggers: action_thank}
   - faq
   - ask_covid
   - inform
   - out_of_scope
 
 entities:
-  - location
+  - country
+  - state
+  - city
   - case_type
   - stat_type
 
@@ -19,18 +21,28 @@ responses:
     - text: Hi
   utter_bye:
     - text: Bye!
-  utter_ask_location:
-    - text: What location are you asking about?
+  utter_ask_country:
+    - text: What country are you asking about?
   utter_out_of_scope:
     - text: Sorry, I wasn't able to understand you, can you rephrase that?
 
 slots:
-  location:
+  country:
+    type: unfeaturized
+  state:
+    type: unfeaturized
+  city:
+    type: unfeaturized
+  case_type:
+    type: unfeaturized
+  stat_type:
     type: unfeaturized
 
 actions:
   - respond_faq
   - action_greet
+  - action_bye
+  - action_thank
 
 forms:
   - covid_form
