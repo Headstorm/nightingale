@@ -17,12 +17,18 @@ entities:
 responses:
   utter_noworries:
     - text: No worries!
+    - text: You're welcome :)
   utter_greet:
-    - text: Hi
+    - text: Hi!
+    - text: Hello
+    - text: Howdy
   utter_bye:
     - text: Bye!
+    - text: Thank you for using nightingale
+    - text: Stay safe
   utter_ask_country:
     - text: What country are you asking about?
+    - text: What country?
   utter_out_of_scope:
     - text: Sorry, I wasn't able to understand you, can you rephrase that?
 
