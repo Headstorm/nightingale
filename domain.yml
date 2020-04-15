@@ -19,9 +19,9 @@ responses:
     - text: No worries!
     - text: You're welcome :)
   utter_greet:
-    - text: Hi!
-    - text: Hello
-    - text: Howdy
+    - text: Hi, thanks for chatting with Nightingale.
+    - text: Hello, I am Nightingale, your Covid-19 factual chatbot
+    - text: Howdy, Nightingale is here to assist you with statistical and factual inquiries about Covid-19
   utter_bye:
     - text: Bye!
     - text: Thank you for using nightingale
