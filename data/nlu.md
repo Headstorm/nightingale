@@ -336,7 +336,7 @@ data/lookup_tables/countries.txt
 - [Zambia](country)
 - [Zimbabwe](country)
 
-## synonym: All
+## synonym:All
 - Earth
 - World
 - Globe
@@ -345,998 +345,998 @@ data/lookup_tables/countries.txt
 - no country
 - nowhere
 
-## synonym: Aruba
+## synonym:Aruba
 - AW
 - ABW
 
-## synonym: Afghanistan
+## synonym:Afghanistan
 - AF
 - AFG
 
-## synonym: Angola
+## synonym:Angola
 - AO
 - AGO
 
-## synonym: Anguilla
+## synonym:Anguilla
 - AI
 - AIA
 
-## synonym: Åland Islands
+## synonym:Åland Islands
 - AX
 - ALA
 
-## synonym: Albania
+## synonym:Albania
 - AL
 - ALB
 
-## synonym: Andorra
+## synonym:Andorra
 - AD
 - AND
 
-## synonym: United Arab Emirates
+## synonym:United Arab Emirates
 - AE
 - ARE
 
-## synonym: Argentina
+## synonym:Argentina
 - AR
 - ARG
 
-## synonym: Armenia
+## synonym:Armenia
 - AM
 - ARM
 
-## synonym: American Samoa
+## synonym:American Samoa
 - AS
 - ASM
 
-## synonym: Antarctica
+## synonym:Antarctica
 - AQ
 - ATA
 
-## synonym: French Southern Territories
+## synonym:French Southern Territories
 - TF
 - ATF
 
-## synonym: Antigua and Barbuda
+## synonym:Antigua and Barbuda
 - AG
 - ATG
 
-## synonym: Australia
+## synonym:Australia
 - AU
 - AUS
 
-## synonym: Austria
+## synonym:Austria
 - AT
 - AUT
 
-## synonym: Azerbaijan
+## synonym:Azerbaijan
 - AZ
 - AZE
 
-## synonym: Burundi
+## synonym:Burundi
 - BI
 - BDI
 
-## synonym: Belgium
+## synonym:Belgium
 - BE
 - BEL
 
-## synonym: Benin
+## synonym:Benin
 - BJ
 - BEN
 
-## synonym: Bonaire, Sint Eustatius and Saba
+## synonym:Bonaire, Sint Eustatius and Saba
 - BQ
 - BES
 
-## synonym: Burkina Faso
+## synonym:Burkina Faso
 - BF
 - BFA
 
-## synonym: Bangladesh
+## synonym:Bangladesh
 - BD
 - BGD
 
-## synonym: Bulgaria
+## synonym:Bulgaria
 - BG
 - BGR
 
-## synonym: Bahrain
+## synonym:Bahrain
 - BH
 - BHR
 
-## synonym: Bahamas
+## synonym:Bahamas
 - BS
 - BHS
 
-## synonym: Bosnia and Herzegovina
+## synonym:Bosnia and Herzegovina
 - BA
 - BIH
 
-## synonym: Saint Barthélemy
+## synonym:Saint Barthélemy
 - BL
 - BLM
 
-## synonym: Belarus
+## synonym:Belarus
 - BY
 - BLR
 
-## synonym: Belize
+## synonym:Belize
 - BZ
 - BLZ
 
-## synonym: Bermuda
+## synonym:Bermuda
 - BM
 - BMU
 
-## synonym: Bolivia, Plurinational State of
+## synonym:Bolivia, Plurinational State of
 - BO
 - BOL
 
-## synonym: Brazil
+## synonym:Brazil
 - BR
 - BRA
 
-## synonym: Barbados
+## synonym:Barbados
 - BB
 - BRB
 
-## synonym: Brunei Darussalam
+## synonym:Brunei Darussalam
 - BN
 - BRN
 
-## synonym: Bhutan
+## synonym:Bhutan
 - BT
 - BTN
 
-## synonym: Bouvet Island
+## synonym:Bouvet Island
 - BV
 - BVT
 
-## synonym: Botswana
+## synonym:Botswana
 - BW
 - BWA
 
-## synonym: Central African Republic
+## synonym:Central African Republic
 - CF
 - CAF
 
-## synonym: Canada
+## synonym:Canada
 - CA
 - CAN
 
-## synonym: Cocos (Keeling) Islands
+## synonym:Cocos (Keeling) Islands
 - CC
 - CCK
 
-## synonym: Switzerland
+## synonym:Switzerland
 - CH
 - CHE
 
-## synonym: Chile
+## synonym:Chile
 - CL
 - CHL
 
-## synonym: China
+## synonym:China
 - CN
 - CHN
 
-## synonym: Côte d'Ivoire
+## synonym:Côte d'Ivoire
 - CI
 - CIV
 
-## synonym: Cameroon
+## synonym:Cameroon
 - CM
 - CMR
 
-## synonym: Congo, The Democratic Republic of the
+## synonym:Congo, The Democratic Republic of the
 - CD
 - COD
 
-## synonym: Congo
+## synonym:Congo
 - CG
 - COG
 
-## synonym: Cook Islands
+## synonym:Cook Islands
 - CK
 - COK
 
-## synonym: Colombia
+## synonym:Colombia
 - CO
 - COL
 
-## synonym: Comoros
+## synonym:Comoros
 - KM
 - COM
 
-## synonym: Cabo Verde
+## synonym:Cabo Verde
 - CV
 - CPV
 
-## synonym: Costa Rica
+## synonym:Costa Rica
 - CR
 - CRI
 
-## synonym: Cuba
+## synonym:Cuba
 - CU
 - CUB
 
-## synonym: Curaçao
+## synonym:Curaçao
 - CW
 - CUW
 
-## synonym: Christmas Island
+## synonym:Christmas Island
 - CX
 - CXR
 
-## synonym: Cayman Islands
+## synonym:Cayman Islands
 - KY
 - CYM
 
-## synonym: Cyprus
+## synonym:Cyprus
 - CY
 - CYP
 
-## synonym: Czechia
+## synonym:Czechia
 - CZ
 - CZE
 
-## synonym: Germany
+## synonym:Germany
 - DE
 - DEU
 
-## synonym: Djibouti
+## synonym:Djibouti
 - DJ
 - DJI
 
-## synonym: Dominica
+## synonym:Dominica
 - DM
 - DMA
 
-## synonym: Denmark
+## synonym:Denmark
 - DK
 - DNK
 
-## synonym: Dominican Republic
+## synonym:Dominican Republic
 - DO
 - DOM
 
-## synonym: Algeria
+## synonym:Algeria
 - DZ
 - DZA
 
-## synonym: Ecuador
+## synonym:Ecuador
 - EC
 - ECU
 
-## synonym: Egypt
+## synonym:Egypt
 - EG
 - EGY
 
-## synonym: Eritrea
+## synonym:Eritrea
 - ER
 - ERI
 
-## synonym: Western Sahara
+## synonym:Western Sahara
 - EH
 - ESH
 
-## synonym: Spain
+## synonym:Spain
 - ES
 - ESP
 
-## synonym: Estonia
+## synonym:Estonia
 - EE
 - EST
 
-## synonym: Ethiopia
+## synonym:Ethiopia
 - ET
 - ETH
 
-## synonym: Finland
+## synonym:Finland
 - FI
 - FIN
 
-## synonym: Fiji
+## synonym:Fiji
 - FJ
 - FJI
 
-## synonym: Falkland Islands (Malvinas)
+## synonym:Falkland Islands (Malvinas)
 - FK
 - FLK
 
-## synonym: France
+## synonym:France
 - FR
 - FRA
 
-## synonym: Faroe Islands
+## synonym:Faroe Islands
 - FO
 - FRO
 
-## synonym: Micronesia, Federated States of
+## synonym:Micronesia, Federated States of
 - FM
 - FSM
 
-## synonym: Gabon
+## synonym:Gabon
 - GA
 - GAB
 
-## synonym: United Kingdom
+## synonym:United Kingdom
 - GB
 - GBR
 
-## synonym: Georgia
+## synonym:Georgia
 - GE
 - GEO
 
-## synonym: Guernsey
+## synonym:Guernsey
 - GG
 - GGY
 
-## synonym: Ghana
+## synonym:Ghana
 - GH
 - GHA
 
-## synonym: Gibraltar
+## synonym:Gibraltar
 - GI
 - GIB
 
-## synonym: Guinea
+## synonym:Guinea
 - GN
 - GIN
 
-## synonym: Guadeloupe
+## synonym:Guadeloupe
 - GP
 - GLP
 
-## synonym: Gambia
+## synonym:Gambia
 - GM
 - GMB
 
-## synonym: Guinea-Bissau
+## synonym:Guinea-Bissau
 - GW
 - GNB
 
-## synonym: Equatorial Guinea
+## synonym:Equatorial Guinea
 - GQ
 - GNQ
 
-## synonym: Greece
+## synonym:Greece
 - GR
 - GRC
 
-## synonym: Grenada
+## synonym:Grenada
 - GD
 - GRD
 
-## synonym: Greenland
+## synonym:Greenland
 - GL
 - GRL
 
-## synonym: Guatemala
+## synonym:Guatemala
 - GT
 - GTM
 
-## synonym: French Guiana
+## synonym:French Guiana
 - GF
 - GUF
 
-## synonym: Guam
+## synonym:Guam
 - GU
 - GUM
 
-## synonym: Guyana
+## synonym:Guyana
 - GY
 - GUY
 
-## synonym: Hong Kong
+## synonym:Hong Kong
 - HK
 - HKG
 
-## synonym: Heard Island and McDonald Islands
+## synonym:Heard Island and McDonald Islands
 - HM
 - HMD
 
-## synonym: Honduras
+## synonym:Honduras
 - HN
 - HND
 
-## synonym: Croatia
+## synonym:Croatia
 - HR
 - HRV
 
-## synonym: Haiti
+## synonym:Haiti
 - HT
 - HTI
 
-## synonym: Hungary
+## synonym:Hungary
 - HU
 - HUN
 
-## synonym: Indonesia
+## synonym:Indonesia
 - ID
 - IDN
 
-## synonym: Isle of Man
+## synonym:Isle of Man
 - IM
 - IMN
 
-## synonym: India
+## synonym:India
 - IN
 - IND
 
-## synonym: British Indian Ocean Territory
+## synonym:British Indian Ocean Territory
 - IO
 - IOT
 
-## synonym: Ireland
+## synonym:Ireland
 - IE
 - IRL
 
-## synonym: Iran, Islamic Republic of
+## synonym:Iran, Islamic Republic of
 - IR
 - IRN
 
-## synonym: Iraq
+## synonym:Iraq
 - IQ
 - IRQ
 
-## synonym: Iceland
+## synonym:Iceland
 - IS
 - ISL
 
-## synonym: Israel
+## synonym:Israel
 - IL
 - ISR
 
-## synonym: Italy
+## synonym:Italy
 - IT
 - ITA
 
-## synonym: Jamaica
+## synonym:Jamaica
 - JM
 - JAM
 
-## synonym: Jersey
+## synonym:Jersey
 - JE
 - JEY
 
-## synonym: Jordan
+## synonym:Jordan
 - JO
 - JOR
 
-## synonym: Japan
+## synonym:Japan
 - JP
 - JPN
 
-## synonym: Kazakhstan
+## synonym:Kazakhstan
 - KZ
 - KAZ
 
-## synonym: Kenya
+## synonym:Kenya
 - KE
 - KEN
 
-## synonym: Kyrgyzstan
+## synonym:Kyrgyzstan
 - KG
 - KGZ
 
-## synonym: Cambodia
+## synonym:Cambodia
 - KH
 - KHM
 
-## synonym: Kiribati
+## synonym:Kiribati
 - KI
 - KIR
 
-## synonym: Saint Kitts and Nevis
+## synonym:Saint Kitts and Nevis
 - KN
 - KNA
 
-## synonym: Korea, Republic of
+## synonym:Korea, Republic of
 - KR
 - KOR
 
-## synonym: Kuwait
+## synonym:Kuwait
 - KW
 - KWT
 
-## synonym: Lao People's Democratic Republic
+## synonym:Lao People's Democratic Republic
 - LA
 - LAO
 
-## synonym: Lebanon
+## synonym:Lebanon
 - LB
 - LBN
 
-## synonym: Liberia
+## synonym:Liberia
 - LR
 - LBR
 
-## synonym: Libya
+## synonym:Libya
 - LY
 - LBY
 
-## synonym: Saint Lucia
+## synonym:Saint Lucia
 - LC
 - LCA
 
-## synonym: Liechtenstein
+## synonym:Liechtenstein
 - LI
 - LIE
 
-## synonym: Sri Lanka
+## synonym:Sri Lanka
 - LK
 - LKA
 
-## synonym: Lesotho
+## synonym:Lesotho
 - LS
 - LSO
 
-## synonym: Lithuania
+## synonym:Lithuania
 - LT
 - LTU
 
-## synonym: Luxembourg
+## synonym:Luxembourg
 - LU
 - LUX
 
-## synonym: Latvia
+## synonym:Latvia
 - LV
 - LVA
 
-## synonym: Macao
+## synonym:Macao
 - MO
 - MAC
 
-## synonym: Saint Martin (French part)
+## synonym:Saint Martin (French part)
 - MF
 - MAF
 
-## synonym: Morocco
+## synonym:Morocco
 - MA
 - MAR
 
-## synonym: Monaco
+## synonym:Monaco
 - MC
 - MCO
 
-## synonym: Moldova, Republic of
+## synonym:Moldova, Republic of
 - MD
 - MDA
 
-## synonym: Madagascar
+## synonym:Madagascar
 - MG
 - MDG
 
-## synonym: Maldives
+## synonym:Maldives
 - MV
 - MDV
 
-## synonym: Mexico
+## synonym:Mexico
 - MX
 - MEX
 
-## synonym: Marshall Islands
+## synonym:Marshall Islands
 - MH
 - MHL
 
-## synonym: North Macedonia
+## synonym:North Macedonia
 - MK
 - MKD
 
-## synonym: Mali
+## synonym:Mali
 - ML
 - MLI
 
-## synonym: Malta
+## synonym:Malta
 - MT
 - MLT
 
-## synonym: Myanmar
+## synonym:Myanmar
 - MM
 - MMR
 
-## synonym: Montenegro
+## synonym:Montenegro
 - ME
 - MNE
 
-## synonym: Mongolia
+## synonym:Mongolia
 - MN
 - MNG
 
-## synonym: Northern Mariana Islands
+## synonym:Northern Mariana Islands
 - MP
 - MNP
 
-## synonym: Mozambique
+## synonym:Mozambique
 - MZ
 - MOZ
 
-## synonym: Mauritania
+## synonym:Mauritania
 - MR
 - MRT
 
-## synonym: Montserrat
+## synonym:Montserrat
 - MS
 - MSR
 
-## synonym: Martinique
+## synonym:Martinique
 - MQ
 - MTQ
 
-## synonym: Mauritius
+## synonym:Mauritius
 - MU
 - MUS
 
-## synonym: Malawi
+## synonym:Malawi
 - MW
 - MWI
 
-## synonym: Malaysia
+## synonym:Malaysia
 - MY
 - MYS
 
-## synonym: Mayotte
+## synonym:Mayotte
 - YT
 - MYT
 
-## synonym: Namibia
+## synonym:Namibia
 - NA
 - NAM
 
-## synonym: New Caledonia
+## synonym:New Caledonia
 - NC
 - NCL
 
-## synonym: Niger
+## synonym:Niger
 - NE
 - NER
 
-## synonym: Norfolk Island
+## synonym:Norfolk Island
 - NF
 - NFK
 
-## synonym: Nigeria
+## synonym:Nigeria
 - NG
 - NGA
 
-## synonym: Nicaragua
+## synonym:Nicaragua
 - NI
 - NIC
 
-## synonym: Niue
+## synonym:Niue
 - NU
 - NIU
 
-## synonym: Netherlands
+## synonym:Netherlands
 - NL
 - NLD
 
-## synonym: Norway
+## synonym:Norway
 - NO
 - NOR
 
-## synonym: Nepal
+## synonym:Nepal
 - NP
 - NPL
 
-## synonym: Nauru
+## synonym:Nauru
 - NR
 - NRU
 
-## synonym: New Zealand
+## synonym:New Zealand
 - NZ
 - NZL
 
-## synonym: Oman
+## synonym:Oman
 - OM
 - OMN
 
-## synonym: Pakistan
+## synonym:Pakistan
 - PK
 - PAK
 
-## synonym: Panama
+## synonym:Panama
 - PA
 - PAN
 
-## synonym: Pitcairn
+## synonym:Pitcairn
 - PN
 - PCN
 
-## synonym: Peru
+## synonym:Peru
 - PE
 - PER
 
-## synonym: Philippines
+## synonym:Philippines
 - PH
 - PHL
 
-## synonym: Palau
+## synonym:Palau
 - PW
 - PLW
 
-## synonym: Papua New Guinea
+## synonym:Papua New Guinea
 - PG
 - PNG
 
-## synonym: Poland
+## synonym:Poland
 - PL
 - POL
 
-## synonym: Puerto Rico
+## synonym:Puerto Rico
 - PR
 - PRI
 
-## synonym: Korea, Democratic People's Republic of
+## synonym:Korea, Democratic People's Republic of
 - KP
 - PRK
 
-## synonym: Portugal
+## synonym:Portugal
 - PT
 - PRT
 
-## synonym: Paraguay
+## synonym:Paraguay
 - PY
 - PRY
 
-## synonym: Palestine, State of
+## synonym:Palestine, State of
 - PS
 - PSE
 
-## synonym: French Polynesia
+## synonym:French Polynesia
 - PF
 - PYF
 
-## synonym: Qatar
+## synonym:Qatar
 - QA
 - QAT
 
-## synonym: Réunion
+## synonym:Réunion
 - RE
 - REU
 
-## synonym: Romania
+## synonym:Romania
 - RO
 - ROU
 
-## synonym: Russian Federation
+## synonym:Russian Federation
 - RU
 - RUS
 
-## synonym: Rwanda
+## synonym:Rwanda
 - RW
 - RWA
 
-## synonym: Saudi Arabia
+## synonym:Saudi Arabia
 - SA
 - SAU
 
-## synonym: Sudan
+## synonym:Sudan
 - SD
 - SDN
 
-## synonym: Senegal
+## synonym:Senegal
 - SN
 - SEN
 
-## synonym: Singapore
+## synonym:Singapore
 - SG
 - SGP
 
-## synonym: South Georgia and the South Sandwich Islands
+## synonym:South Georgia and the South Sandwich Islands
 - GS
 - SGS
 
-## synonym: Saint Helena, Ascension and Tristan da Cunha
+## synonym:Saint Helena, Ascension and Tristan da Cunha
 - SH
 - SHN
 
-## synonym: Svalbard and Jan Mayen
+## synonym:Svalbard and Jan Mayen
 - SJ
 - SJM
 
-## synonym: Solomon Islands
+## synonym:Solomon Islands
 - SB
 - SLB
 
-## synonym: Sierra Leone
+## synonym:Sierra Leone
 - SL
 - SLE
 
-## synonym: El Salvador
+## synonym:El Salvador
 - SV
 - SLV
 
-## synonym: San Marino
+## synonym:San Marino
 - SM
 - SMR
 
-## synonym: Somalia
+## synonym:Somalia
 - SO
 - SOM
 
-## synonym: Saint Pierre and Miquelon
+## synonym:Saint Pierre and Miquelon
 - PM
 - SPM
 
-## synonym: Serbia
+## synonym:Serbia
 - RS
 - SRB
 
-## synonym: South Sudan
+## synonym:South Sudan
 - SS
 - SSD
 
-## synonym: Sao Tome and Principe
+## synonym:Sao Tome and Principe
 - ST
 - STP
 
-## synonym: Suriname
+## synonym:Suriname
 - SR
 - SUR
 
-## synonym: Slovakia
+## synonym:Slovakia
 - SK
 - SVK
 
-## synonym: Slovenia
+## synonym:Slovenia
 - SI
 - SVN
 
-## synonym: Sweden
+## synonym:Sweden
 - SE
 - SWE
 
-## synonym: Eswatini
+## synonym:Eswatini
 - SZ
 - SWZ
 
-## synonym: Sint Maarten (Dutch part)
+## synonym:Sint Maarten (Dutch part)
 - SX
 - SXM
 
-## synonym: Seychelles
+## synonym:Seychelles
 - SC
 - SYC
 
-## synonym: Syrian Arab Republic
+## synonym:Syrian Arab Republic
 - SY
 - SYR
 
-## synonym: Turks and Caicos Islands
+## synonym:Turks and Caicos Islands
 - TC
 - TCA
 
-## synonym: Chad
+## synonym:Chad
 - TD
 - TCD
 
-## synonym: Togo
+## synonym:Togo
 - TG
 - TGO
 
-## synonym: Thailand
+## synonym:Thailand
 - TH
 - THA
 
-## synonym: Tajikistan
+## synonym:Tajikistan
 - TJ
 - TJK
 
-## synonym: Tokelau
+## synonym:Tokelau
 - TK
 - TKL
 
-## synonym: Turkmenistan
+## synonym:Turkmenistan
 - TM
 - TKM
 
-## synonym: Timor-Leste
+## synonym:Timor-Leste
 - TL
 - TLS
 
-## synonym: Tonga
+## synonym:Tonga
 - TO
 - TON
 
-## synonym: Trinidad and Tobago
+## synonym:Trinidad and Tobago
 - TT
 - TTO
 
-## synonym: Tunisia
+## synonym:Tunisia
 - TN
 - TUN
 
-## synonym: Turkey
+## synonym:Turkey
 - TR
 - TUR
 
-## synonym: Tuvalu
+## synonym:Tuvalu
 - TV
 - TUV
 
-## synonym: Taiwan, Province of China
+## synonym:Taiwan, Province of China
 - TW
 - TWN
 
-## synonym: Tanzania, United Republic of
+## synonym:Tanzania, United Republic of
 - TZ
 - TZA
 
-## synonym: Uganda
+## synonym:Uganda
 - UG
 - UGA
 
-## synonym: Ukraine
+## synonym:Ukraine
 - UA
 - UKR
 
-## synonym: United States Minor Outlying Islands
+## synonym:United States Minor Outlying Islands
 - UM
 - UMI
 
-## synonym: Uruguay
+## synonym:Uruguay
 - UY
 - URY
 
-## synonym: United States
+## synonym:United States
 - US
 - USA
 
-## synonym: Uzbekistan
+## synonym:Uzbekistan
 - UZ
 - UZB
 
-## synonym: Holy See (Vatican City State)
+## synonym:Holy See (Vatican City State)
 - VA
 - VAT
 
-## synonym: Saint Vincent and the Grenadines
+## synonym:Saint Vincent and the Grenadines
 - VC
 - VCT
 
-## synonym: Venezuela, Bolivarian Republic of
+## synonym:Venezuela, Bolivarian Republic of
 - VE
 - VEN
 
-## synonym: Virgin Islands, British
+## synonym:Virgin Islands, British
 - VG
 - VGB
 
-## synonym: Virgin Islands, U.S.
+## synonym:Virgin Islands, U.S.
 - VI
 - VIR
 
-## synonym: Viet Nam
+## synonym:Viet Nam
 - VN
 - VNM
 
-## synonym: Vanuatu
+## synonym:Vanuatu
 - VU
 - VUT
 
-## synonym: Wallis and Futuna
+## synonym:Wallis and Futuna
 - WF
 - WLF
 
-## synonym: Samoa
+## synonym:Samoa
 - WS
 - WSM
 
-## synonym: Yemen
+## synonym:Yemen
 - YE
 - YEM
 
-## synonym: South Africa
+## synonym:South Africa
 - ZA
 - ZAF
 
-## synonym: Zambia
+## synonym:Zambia
 - ZM
 - ZMB
 
-## synonym: Zimbabwe
+## synonym:Zimbabwe
 - ZW
 - ZWE
